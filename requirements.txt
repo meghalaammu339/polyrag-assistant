@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+ragas
+streamlit
+pymupdf
+pandas
+beautifulsoup4
+requests
+youtube-transcript-api
+rank-bm25
+sentence-transformers
+python-dotenv
+groq
+langchain-groq
+tiktoken
