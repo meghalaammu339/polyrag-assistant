@@ -44,4 +44,4 @@ def load_youtube(url: str) -> list[Document]:
         }
     )
 
-    return chunk_documents([doc])
+    return chunk_documents([doc])]
